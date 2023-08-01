@@ -14,7 +14,7 @@ My projects.
 
    The predictions of Moscow taxi are made.
 
-Kaggle: https://www.kaggle.com/sergeymbakharev
-Competitions on Kaggle:
+
+Competitions on Kaggle: https://www.kaggle.com/sergeymbakharev/competitions
 
    
