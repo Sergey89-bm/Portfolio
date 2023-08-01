@@ -1,5 +1,5 @@
 # Portfolio
-my works
+My projects.
 
 1. Heat_Capacity_YIG
 
@@ -13,4 +13,8 @@ my works
 5. ML_projects
 
    The predictions of Moscow taxi are made.
+
+Kaggle: https://www.kaggle.com/sergeymbakharev
+Competitions on Kaggle:
+
    
