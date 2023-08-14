@@ -12,7 +12,8 @@ My projects.
 
 5. ML_projects
 
-   The predictions of Moscow taxi are made.
+   1) The predictions of Moscow taxi are made.
+   2) Drops_invest.ipynb - recognition of suspended droplets in a liquid.
 
 
 Competitions on Kaggle: https://www.kaggle.com/sergeymbakharev/competitions
